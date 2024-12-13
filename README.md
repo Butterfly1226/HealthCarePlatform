@@ -43,6 +43,7 @@ This mode makes you as a user and you can perform various activities like...
 - View & Edit user profile details
 - Book a New Appoinment
 - check your appointment approval by the doctor
+- 
 - view your doctors prescription and print it.
 - Get various details on the user dashboard as Total User, Total doctors, Total slots, Patients.
 
